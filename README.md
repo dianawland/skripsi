@@ -1,6 +1,6 @@
 # skripsi
 
-cara menjalankan program
+cara menjalankan program :
 
 install anaconda navigator 
 
